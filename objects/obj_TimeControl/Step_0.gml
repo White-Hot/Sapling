@@ -1,0 +1,5 @@
+
+	if(dayTick = true)
+{
+scrDayTick();
+}

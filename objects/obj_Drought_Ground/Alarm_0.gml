@@ -1,0 +1,1 @@
+obj_Drought_trees.image_alpha = 100;

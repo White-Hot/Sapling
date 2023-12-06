@@ -1,0 +1,1 @@
+CurrentWeatherSky = 0;

@@ -1,0 +1,1 @@
+obj_SnowGround.image_alpha = 0;

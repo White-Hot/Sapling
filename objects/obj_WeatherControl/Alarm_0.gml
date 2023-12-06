@@ -1,0 +1,1 @@
+obj_AutmenGround.image_alpha = 0;

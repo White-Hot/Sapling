@@ -1,0 +1,4 @@
+if(spawnCountOn = true)
+{
+scrCloudcon();
+}
